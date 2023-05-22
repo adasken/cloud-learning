@@ -13,8 +13,8 @@ import base64
 app = Flask(__name__)
 
 ### TO EDIT ###
-sql_host = '35.244.69.6' 
-sql_connection_name='cloud-computing-387303:australia-southeast1:googlecloudsql'
+sql_host = '34.87.227.182' 
+sql_connection_name='cloud-computing-387522:australia-southeast1:googlecloudsql'
 sql_port = 3306
 sql_database = 'emotions'
 sql_user = 'root'
